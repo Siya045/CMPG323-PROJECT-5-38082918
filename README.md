@@ -1,43 +1,40 @@
 ### POWER BI REFERENCE LIST
-Codefinity, n.d. Power BI Course. Available at: https://codefinity.com/courses/v2/26f8cb02-98d1-4890-beba-59746fc70c85 (Accessed 4 October 2024).
+Analyst academy, 2023. Data Visualization Crash Course. Available at: https://youtu.be/ZUeWXNK-9yA?si=8OtREvkYlR-Sq_7I (Accessed 5 October 2024).
 
-Coursera, n.d. Microsoft Power BI Data Analyst Professional Certificate. Available at: https://www.coursera.org/enroll/microsoft-power-bi-data-analyst/ (Accessed 5 October 2024).
+Bismart, 2020. Power BI Dashboard vs Report: What Is the Difference?. Available at: https://blog.bismart.com/en/power-bi-dashboard-vs-report (Accessed 5 October 2024).
 
-DataCamp, n.d. Introduction to Power BI. Available at: https://www.datacamp.com/courses/introduction-to-power-bi (Accessed 6 October 2024).
+Chandoo, 2024. Power Query - Beginner to PRO Masterclass in 30 minutes. Available at: https://youtu.be/MMdcczmULrU?si=y5oimao64BrPCXqf (Accessed 5 October 2024).
 
-DataChant, 2023. The Ultimate Power BI Guide. Available at: https://www.datachant.com/ultimate-power-bi-guide/ (Accessed 6 October 2024).
+Datacamp, 2022. Power BI Tutorial for Beginners. Available at: https://www.datacamp.com/tutorial/tutorial-power-bi-for-beginners (Accessed 5 October 2024).
 
-Enterprise DNA, 2021. Power BI Dashboard Development. Available at: https://enterprisedna.co/power-bi-dashboard-development/ (Accessed 6 October 2024).
+Faraz, M., 2024. 10 Best Power BI Reports Examples. Available at: https://hevodata.com/learn/10-best-power-bi-reports-examples/ (Accessed 5 October 2024).
 
-GeeksforGeeks, n.d. Power BI Tutorial. Available at: https://www.geeksforgeeks.org/power-bi-tutorial/ (Accessed 5 October 2024).
+Gharani, L., 2022. How to Create Custom Data Types 💼 in Excel. Available at: https://youtu.be/sVrtkxjfDkc?si=EratfnHnAx3ycP7y (Accessed 4 October 2024).
 
-Intellipaat, n.d. Power BI Tutorial. Available at: https://intellipaat.com/blog/tutorial/power-bi-tutorial/ (Accessed 5 October 2024).
+Gharani, L., 2022. Power BI Tutorial For Beginners | Create Your First Dashboard Now. Available at: https://youtu.be/c7LrqSxjJQQ?si=Tg4_laW4saV2vBin (Accessed 5 October 2024).
 
-LinkedIn Learning, 2022. Power BI Essential Training. Available at: https://www.linkedin.com/learning/power-bi-essential-training (Accessed 6 October 2024).
+Gharani, L., 2023. How To Create these useful Power Bi Visuals that Excel Lacks. Available at: https://youtu.be/GpP0EbSMRpg?si=lSbw5ybl3zVBQX0C (Accessed 5 October 2024).
 
-Microsoft, 2023. Power BI Documentation. Available at: https://learn.microsoft.com/en-us/power-bi/ (Accessed 5 October 2024).
+Hashemi-Pour, C. & Scardina, J., 2015. Microsoft Power BI. Available at: https://www.techtarget.com/searchcontentmanagement/definition/Microsoft-Power-BI (Accessed 5 October 2024).
 
-Microsoft, n.d. Get started creating in the Power BI service. Microsoft Learn. Available at: https://learn.microsoft.com/en-us/power-bi/fundamentals/service-get-started (Accessed 4 October 2024).
+Lalwani, P., 2020. How to create a Filter on Visual in Power BI. Available at: https://youtu.be/8y4yjPYe4-8?si=NhhMvUctlzn_r8z1 (Accessed 4 October 2024).
 
-Pearson, 2021. Power BI Crash Course. Available at: https://www.pearson.com/store/power-bi-crash-course (Accessed 4 October 2024).
+Lalwani, P., 2020. How to Use Drillthrough in Power BI. Available at: https://youtu.be/k-uWcjbLv0E?si=ibRUpBA2G90OgVir (Accessed 4 October 2024).
 
-Radac, R., 2021. Mastering Power BI. London: Packt Publishing.
+Maven Analytics, 2024. Learn Power Query, Power Pivot & DAX in 15 MINUTES. Available at: https://youtu.be/GsjCixoyOnE?si=B230Z3XMF8lZfuaN (Accessed 5 October 2024).
 
-Russo, M. and Ferrari, A., 2021. The Definitive Guide to DAX: Business Intelligence with Microsoft Power BI. 2nd ed. Boston: Pearson Education.
+Maven Analytics, 2024. Storytelling with Data | Dashboard Build Demo. Available at: https://youtu.be/OYbPOhK0wPo?si=R26zwmocHi6OzB4J (Accessed 6 October 2024).
 
-Simplilearn, 2024. Power BI Tutorial. Available at: https://www.simplilearn.com/tutorials/power-bi-tutorial (Accessed 4 October 2024).
+Microsoft Learn, 2023. Use custom data connectors with an on-premises data gateway. Available at: https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-custom-connectors (Accessed 5 October 2024).
 
-Smit, S., 2020. Power BI for Dummies. 2nd ed. New York: Wiley.
+mohitp930, alexisdcounts & denrea, 2024. Power BI data sources. Available at: https://learn.microsoft.com/en-us/power-bi/connect-data/power-bi-data-sources (Accessed 5 October 2024).
 
-SQLBI, 2022. Power BI Tutorial for Beginners. Available at: https://www.sqlbi.com/tutorials/power-bi/ (Accessed 6 October 2024).
+Pragmatic Works, 2023. Hands-On Power BI Tutorial. Available at: https://www.youtube.com/live/77jIzgvCIYY?si=eP8LHWyjepCnuLmi (Accessed 6 October 2024).
 
-Stacia, V., 2021. Introducing Microsoft Power BI. 1st ed. Microsoft Press.
+Pragmatic Works, 2024. Small Tweaks in Power BI That Make Big Impacts!. Available at: https://youtu.be/butjwmNH0Mg?si=F_AKsw3N95FyoIuc (Accessed 6 October 2024).
 
-The Reporting Hub, n.d. Power BI Dashboard Trial. Available at: https://thereportinghub.com/lp/power-bi-dashboard-trial (Accessed 6 October 2024).
+Pragmatic Works, 2024. ULTIMATE Power BI Tutorial 📊 Beginner to Pro Course (2024). Available at: https://youtu.be/Dk25lwdTKow?si=BxohEAXlALBDeDzV (Accessed 5 October 2024).
 
-Udemy, n.d. 15 Days of Power BI. Available at: https://www.udemy.com/course/15-days-of-power-bi/ (Accessed 6 October 2024).
+Singh, A., 2019. Power BI Tutorial From Beginner to Pro. Available at: https://youtu.be/AGrl-H87pRU?si=OUEGh40ePxY6uuoO (Accessed 5 October 2024).
 
-YouTube, 2022. Power BI Full Course - Learn Power BI in 4 Hours. Available at: https://www.youtube.com/watch?v=-nB5zV_Zp0g (Accessed 5 October 2024).
-
-YouTube, 2023. Power BI Step by Step Tutorial. Available at: https://www.youtube.com/watch?v=AGrl-H87pRU (Accessed 4 October 2024).
-
+Stratvert, K., 2023. Power BI Tips and Tricks. Available at: https://youtu.be/PnfrhEcwxdw?si=68lSdrCvG3lLYPbl (Accessed 5 October 2024).
