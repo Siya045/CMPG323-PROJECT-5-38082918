@@ -1,4 +1,4 @@
-### POWER BI REFERENCE LIST
+### POWER BI. *MY REFERENCE LIST*
 Analyst academy, 2023. Data Visualization Crash Course. Available at: https://youtu.be/ZUeWXNK-9yA?si=8OtREvkYlR-Sq_7I (Accessed 5 October 2024).
 
 Bismart, 2020. Power BI Dashboard vs Report: What Is the Difference?. Available at: https://blog.bismart.com/en/power-bi-dashboard-vs-report (Accessed 5 October 2024).
